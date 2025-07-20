@@ -120,16 +120,6 @@ The framework is applicable to multiple domains:
 * Explore **cross-modality models** combining image + spectral inputs
 * Real-time inference pipeline using ONNX or TensorRT
 
-## Author
-
-**Aman Rawat**
-* AI-ML Intern, Grull Technologies Pvt Ltd
-* B.Tech Final Year, IIT (ISM) Dhanbad
-* GitHub: [ktdjiren](https://github.com/ktdjiren)
-* LinkedIn: [aman-rawat](https://www.linkedin.com/in/aman-rawat-08556b272)
-* Email: [rawatamanamanaman1234@gmail.com](mailto:rawatamanamanaman1234@gmail.com)
-
-
 ## References
 
 * Dong et al., "Image Super-Resolution Using Deep Convolutional Networks" (SRCNN)
